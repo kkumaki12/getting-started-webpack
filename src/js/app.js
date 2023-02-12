@@ -1,7 +1,7 @@
 // ES Modulesという仕様
 import $ from 'jquery';
-import add from './module/add';
-import tax from './module/tax';
+import add from './modules/add';
+import tax from './modules/tax';
 
 const item1Price = 400;
 const item2Price = 600;
